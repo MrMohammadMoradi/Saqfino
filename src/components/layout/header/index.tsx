@@ -5,7 +5,7 @@ import { HamburgerMenu } from "./HamburgerMenu";
 
 export const Header = () => {
     return (
-        <div className="flex p-0 md:py-5 w-full justify-center z-10">
+        <div className="flex px-5 md:py-5 w-full justify-center z-10">
             <div className="md:container w-full bg-white flex justify-between items-center py-5 border-2 rounded-none md:rounded-full px-5">
                 <div className="flex gap-2 justify-end ps-3">
                     <button type="button" className="">
