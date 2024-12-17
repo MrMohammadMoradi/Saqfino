@@ -1,4 +1,4 @@
-import { SearchMain } from "@src/components/SearchMain";
+import { SearchMain } from "../components/SearchMain";
 
 export const HomePage = () => {
     return (
